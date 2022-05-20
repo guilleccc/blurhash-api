@@ -8,9 +8,15 @@
     "export": "next export"
   },
   "dependencies": {
+    "blurhash": "^1.1.5",
+    "canvas": "^2.9.1",
+    "got": "^12.0.4",
+    "image-js": "^0.34.1",
     "next": "^12.1.5",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "sharp": "^0.30.4",
+    "upng-js": "^2.1.0"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.7.0"
